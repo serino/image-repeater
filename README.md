@@ -1,0 +1,1 @@
+This app allows a user to input the amount of times they'd like to see the image displayed in increasing size.
